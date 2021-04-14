@@ -45,8 +45,8 @@ Total calculation is a total of the previous categories.
 
 ### The Basics
 
-- [ ] Create a welcome screen and give the user options on which delivery service was used to place the order (DoorDash, Grubhub, Uber Eats, Postmates, Direct from restaurant)
-- [ ] Create order class to keep track of each person and their orders.
+- [X] Create a welcome screen and give the user options on which delivery service was used to place the order (DoorDash, Grubhub, Uber Eats, Postmates, Direct from restaurant)
+- [ ] Implement order class to keep track of each person and their orders.
 - [ ] Create classes for delivery services with ServiceFee property and OrderCalculation method.
   - [ ] Implement BaseDeliveryService class.
   - [ ] Implement DoorDash class.
