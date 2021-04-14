@@ -4,7 +4,7 @@ The Food Order Calculator CLI is designed to resolve an issue which I personally
 Having to calculate manually and fairly how much each person on an order is very tedious. Below is an example order and split.
 
 
-|  Name | Food  |  Tax | Service Fee | Tips | Total |
+|Name   |Food   |Tax   |Service Fee  |Tips  |Total  |
 |:------|:-----:|:----:|:-----------:|:----:|:-----:|
 |Paulene|$ 11.98|$ 0.84|$        0.75|$ 2.04|$ 15.61|
 |Aaron  |$  8.99|$ 0.63|$        0.56|$ 1.53|$ 11.71|
@@ -16,7 +16,7 @@ Having to calculate manually and fairly how much each person on an order is very
 |:----------:|:-----:|
 |Subtotal    |$ 50.93|
 |Delivery Fee|$ 0.00 |
-|Tax*        |$ 3.58 |
+|Tax (6.625%)|$ 3.58 |
 |Service Fee |$ 3.18 |
 |Tip         |$ 8.66 |
 |Total       |$ 66.36|
@@ -41,7 +41,7 @@ Tip can either be a flat number or a percentage which is added to the order.
 ### **Total**
 Total calculation is a total of the previous categories.
 
-#To-do list:
+# To-do list:
 
 ### The Basics
 
